@@ -5,6 +5,7 @@ from storage import load_students, save_students
 
 manager = StudentManager()
 student = students ()
+print("hello")
 # TODO: Load students from students.json
 
 
